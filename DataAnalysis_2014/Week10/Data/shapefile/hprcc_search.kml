@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<Placemark>
+		<name>AINSWORTH</name>
+		<description><![CDATA[ <p>a250059<br>Network: HPRCC AWDN<br>Begin Date:1984-6-4<br>End Date: Current<br><a href="http://hprcc.unl.edu/data/stationinfo.php?network_type=5&network_id=a250059">More Information</a><br></p><p font-color="red">Data Provided by High Plains Regional Climate Center - <a href="http://hprcc.unl.edu">http://hprcc.unl.edu</a></p> ]]></description>
+		<Point>
+			<coordinates>-99.82,42.55</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>ALLIANCEWEST</name>
+		<description><![CDATA[ <p>a250138<br>Network: HPRCC AWDN<br>Begin Date:1988-5-29<br>End Date: Current<br><a href="http://hprcc.unl.edu/data/stationinfo.php?network_type=5&network_id=a250138">More Information</a><br></p><p font-color="red">Data Provided by High Plains Regional Climate Center - <a href="http://hprcc.unl.edu">http://hprcc.unl.edu</a></p> ]]></description>
+		<Point>
+			<coordinates>-103.13,42.02</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>ALLIANCENORTH</name>
+		<description><![CDATA[ <p>a250148<br>Network: HPRCC AWDN<br>Begin Date:1988-5-29<br>End Date: Current<br><a href="http://hprcc.unl.edu/data/stationinfo.php?network_type=5&network_id=a250148">More Information</a><br></p><p font-color="red">Data Provided by High Plains Regional Climate Center - <a href="http://hprcc.unl.edu">http://hprcc.unl.edu</a></p> ]]></description>
+		<Point>
+			<coordinates>-102.92,42.18</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>ARAPAHOEPRAIRIE</name>
+		<description><![CDATA[ <p>a250259<br>Network: HPRCC AWDN<br>Begin Date:1987-2-2<br>End Date: Current<br><a href="http://hprcc.unl.edu/data/stationinfo.php?network_type=5&network_id=a250259">More Information</a><br></p><p font-color="red">Data Provided by High Plains Regional Climate Center - <a href="http://hprcc.unl.edu">http://hprcc.unl.edu</a></p> ]]></description>
+		<Point>
+			<coordinates>-101.85,41.48</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>ARTHUR</name>
+		<description><![CDATA[ <p>a250369<br>Network: HPRCC AWDN<br>Begin Date:1982-2-13<br>End Date: Current<br><a href="http://hprcc.unl.edu/data/stationinfo.php?network_type=5&network_id=a250369">More Information</a><br></p><p font-color="red">Data Provided by High Plains Regional Climate Center - <a href="http://hprcc.unl.edu">http://hprcc.unl.edu</a></p> ]]></description>
+		<Point>
+			<coordinates>-101.52,41.65</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>BEATRICE</name>
+		<description><![CDATA[ <p>a250629<br>Network: HPRCC AWDN<br>Begin Date:1990-1-1<br>End Date: Current<br><a href="http://hprcc.unl.edu/data/stationinfo.php?network_type=5&network_id=a250629">More Information</a><br></p><p font-color="red">Data Provided by High Plains Regional Climate Center - <a href="http://hprcc.unl.edu">http://hprcc.unl.edu</a></p> ]]></description>
+		<Point>
+			<coordinates>-96.93,40.30</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>BRUNSWICK</name>
+		<description><![CDATA[ <p>a251249<br>Network: HPRCC AWDN<br>Begin Date:1998-6-29<br>End Date: Current<br><a href="http://hprcc.unl.edu/data/stationinfo.php?network_type=5&network_id=a251249">More Information</a><br></p><p font-color="red">Data Provided by High Plains Regional Climate Center - <a href="http://hprcc.unl.edu">http://hprcc.unl.edu</a></p> ]]></description>
+		<Point>
+			<coordinates>-97.92,42.35</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CEDAR POINT</name>
+		<description><![CDATA[ <p>a251549<br>Network: HPRCC AWDN<br>Begin Date:1996-7-2<br>End Date: Current<br><a href="http://hprcc.unl.edu/data/stationinfo.php?network_type=5&network_id=a251549">More Information</a><br></p><p font-color="red">Data Provided by High Plains Regional Climate Center - <a href="http://hprcc.unl.edu">http://hprcc.unl.edu</a></p> ]]></description>
+		<Point>
+			<coordinates>-101.63,41.20</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CENTRALCITY</name>
+		<description><![CDATA[ <p>a251569<br>Network: HPRCC AWDN<br>Begin Date:1986-9-4<br>End Date: Current<br><a href="http://hprcc.unl.edu/data/stationinfo.php?network_type=5&network_id=a251569">More Information</a><br></p><p font-color="red">Data Provided by High Plains Regional Climate Center - <a href="http://hprcc.unl.edu">http://hprcc.unl.edu</a></p> ]]></description>
+		<Point>
+			<coordinates>-97.97,41.15</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CHAMPION</name>
+		<description><![CDATA[ <p>a251599<br>Network: HPRCC AWDN<br>Begin Date:1981-5-20<br>End Date: Current<br><a href="http://hprcc.unl.edu/data/stationinfo.php?network_type=5&network_id=a251599">More Information</a><br></p><p font-color="red">Data Provided by High Plains Regional Climate Center - <a href="http://hprcc.unl.edu">http://hprcc.unl.edu</a></p> ]]></description>
+		<Point>
+			<coordinates>-101.72,40.40</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CURTISUNSTA</name>
+		<description><![CDATA[ <p>a252109<br>Network: HPRCC AWDN<br>Begin Date:1986-8-5<br>End Date: Current<br><a href="http://hprcc.unl.edu/data/stationinfo.php?network_type=5&network_id=a252109">More Information</a><br></p><p font-color="red">Data Provided by High Plains Regional Climate Center - <a href="http://hprcc.unl.edu">http://hprcc.unl.edu</a></p> ]]></description>
+		<Point>
+			<coordinates>-100.50,40.63</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>DICKENS</name>
+		<description><![CDATA[ <p>a252319<br>Network: HPRCC AWDN<br>Begin Date:1981-5-21<br>End Date: Current<br><a href="http://hprcc.unl.edu/data/stationinfo.php?network_type=5&network_id=a252319">More Information</a><br></p><p font-color="red">Data Provided by High Plains Regional Climate Center - <a href="http://hprcc.unl.edu">http://hprcc.unl.edu</a></p> ]]></description>
+		<Point>
+			<coordinates>-100.98,40.95</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>ELGIN</name>
+		<description><![CDATA[ <p>a252599<br>Network: HPRCC AWDN<br>Begin Date:1988-1-1<br>End Date: Current<br><a href="http://hprcc.unl.edu/data/stationinfo.php?network_type=5&network_id=a252599">More Information</a><br></p><p font-color="red">Data Provided by High Plains Regional Climate Center - <a href="http://hprcc.unl.edu">http://hprcc.unl.edu</a></p> ]]></description>
+		<Point>
+			<coordinates>-98.18,41.93</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GORDON</name>
+		<description><![CDATA[ <p>a253359<br>Network: HPRCC AWDN<br>Begin Date:1984-10-18<br>End Date: Current<br><a href="http://hprcc.unl.edu/data/stationinfo.php?network_type=5&network_id=a253359">More Information</a><br></p><p font-color="red">Data Provided by High Plains Regional Climate Center - <a href="http://hprcc.unl.edu">http://hprcc.unl.edu</a></p> ]]></description>
+		<Point>
+			<coordinates>-102.17,42.73</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GRAND ISLAND</name>
+		<description><![CDATA[ <p>a253409<br>Network: HPRCC AWDN<br>Begin Date:1995-1-1<br>End Date: Current<br><a href="http://hprcc.unl.edu/data/stationinfo.php?network_type=5&network_id=a253409">More Information</a><br></p><p font-color="red">Data Provided by High Plains Regional Climate Center - <a href="http://hprcc.unl.edu">http://hprcc.unl.edu</a></p> ]]></description>
+		<Point>
+			<coordinates>-98.50,40.88</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GUDMUNDSEN RSRCH</name>
+		<description><![CDATA[ <p>a253479<br>Network: HPRCC AWDN<br>Begin Date:1982-10-5<br>End Date: Current<br><a href="http://hprcc.unl.edu/data/stationinfo.php?network_type=5&network_id=a253479">More Information</a><br></p><p font-color="red">Data Provided by High Plains Regional Climate Center - <a href="http://hprcc.unl.edu">http://hprcc.unl.edu</a></p> ]]></description>
+		<Point>
+			<coordinates>-101.43,42.07</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>HALSEY</name>
+		<description><![CDATA[ <p>a253549<br>Network: HPRCC AWDN<br>Begin Date:1989-8-13<br>End Date: Current<br><a href="http://hprcc.unl.edu/data/stationinfo.php?network_type=5&network_id=a253549">More Information</a><br></p><p font-color="red">Data Provided by High Plains Regional Climate Center - <a href="http://hprcc.unl.edu">http://hprcc.unl.edu</a></p> ]]></description>
+		<Point>
+			<coordinates>-100.15,41.90</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>HOLDREGE</name>
+		<description><![CDATA[ <p>a253919<br>Network: HPRCC AWDN<br>Begin Date:1988-5-29<br>End Date: Current<br><a href="http://hprcc.unl.edu/data/stationinfo.php?network_type=5&network_id=a253919">More Information</a><br></p><p font-color="red">Data Provided by High Plains Regional Climate Center - <a href="http://hprcc.unl.edu">http://hprcc.unl.edu</a></p> ]]></description>
+		<Point>
+			<coordinates>-99.37,40.33</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>HOLDREGE 4N</name>
+		<description><![CDATA[ <p>a253929<br>Network: HPRCC AWDN<br>Begin Date:1995-6-4<br>End Date: Current<br><a href="http://hprcc.unl.edu/data/stationinfo.php?network_type=5&network_id=a253929">More Information</a><br></p><p font-color="red">Data Provided by High Plains Regional Climate Center - <a href="http://hprcc.unl.edu">http://hprcc.unl.edu</a></p> ]]></description>
+		<Point>
+			<coordinates>-99.35,40.50</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>INDIAN CAVE ST PARK</name>
+		<description><![CDATA[ <p>a254119<br>Network: HPRCC AWDN<br>Begin Date:1998-6-17<br>End Date: Current<br><a href="http://hprcc.unl.edu/data/stationinfo.php?network_type=5&network_id=a254119">More Information</a><br></p><p font-color="red">Data Provided by High Plains Regional Climate Center - <a href="http://hprcc.unl.edu">http://hprcc.unl.edu</a></p> ]]></description>
+		<Point>
+			<coordinates>-95.62,40.28</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>KEARNEY</name>
+		<description><![CDATA[ <p>a254339<br>Network: HPRCC AWDN<br>Begin Date:1994-1-1<br>End Date: Current<br><a href="http://hprcc.unl.edu/data/stationinfo.php?network_type=5&network_id=a254339">More Information</a><br></p><p font-color="red">Data Provided by High Plains Regional Climate Center - <a href="http://hprcc.unl.edu">http://hprcc.unl.edu</a></p> ]]></description>
+		<Point>
+			<coordinates>-99.02,40.72</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>LEXINGTON</name>
+		<description><![CDATA[ <p>a254669<br>Network: HPRCC AWDN<br>Begin Date:1986-8-5<br>End Date: Current<br><a href="http://hprcc.unl.edu/data/stationinfo.php?network_type=5&network_id=a254669">More Information</a><br></p><p font-color="red">Data Provided by High Plains Regional Climate Center - <a href="http://hprcc.unl.edu">http://hprcc.unl.edu</a></p> ]]></description>
+		<Point>
+			<coordinates>-99.73,40.77</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>HAVELOCK</name>
+		<description><![CDATA[ <p>a254699<br>Network: HPRCC AWDN<br>Begin Date:1983-5-5<br>End Date: Current<br><a href="http://hprcc.unl.edu/data/stationinfo.php?network_type=5&network_id=a254699">More Information</a><br></p><p font-color="red">Data Provided by High Plains Regional Climate Center - <a href="http://hprcc.unl.edu">http://hprcc.unl.edu</a></p> ]]></description>
+		<Point>
+			<coordinates>-96.60,40.85</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>LINCOLN 20E 35S</name>
+		<description><![CDATA[ <p>a254719<br>Network: HPRCC AWDN<br>Begin Date:1991-6-5<br>End Date: Current<br><a href="http://hprcc.unl.edu/data/stationinfo.php?network_type=5&network_id=a254719">More Information</a><br></p><p font-color="red">Data Provided by High Plains Regional Climate Center - <a href="http://hprcc.unl.edu">http://hprcc.unl.edu</a></p> ]]></description>
+		<Point>
+			<coordinates>-96.70,40.78</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>LINCOLN 82E 20S</name>
+		<description><![CDATA[ <p>a254729<br>Network: HPRCC AWDN<br>Begin Date:1992-6-30<br>End Date: Current<br><a href="http://hprcc.unl.edu/data/stationinfo.php?network_type=5&network_id=a254729">More Information</a><br></p><p font-color="red">Data Provided by High Plains Regional Climate Center - <a href="http://hprcc.unl.edu">http://hprcc.unl.edu</a></p> ]]></description>
+		<Point>
+			<coordinates>-96.60,40.78</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>LINCOLN 12W 55N</name>
+		<description><![CDATA[ <p>a254739<br>Network: HPRCC AWDN<br>Begin Date:1994-6-29<br>End Date: Current<br><a href="http://hprcc.unl.edu/data/stationinfo.php?network_type=5&network_id=a254739">More Information</a><br></p><p font-color="red">Data Provided by High Plains Regional Climate Center - <a href="http://hprcc.unl.edu">http://hprcc.unl.edu</a></p> ]]></description>
+		<Point>
+			<coordinates>-96.75,40.87</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>LINCOLN 51E 13S</name>
+		<description><![CDATA[ <p>a254749<br>Network: HPRCC AWDN<br>Begin Date:1996-7-13<br>End Date: Current<br><a href="http://hprcc.unl.edu/data/stationinfo.php?network_type=5&network_id=a254749">More Information</a><br></p><p font-color="red">Data Provided by High Plains Regional Climate Center - <a href="http://hprcc.unl.edu">http://hprcc.unl.edu</a></p> ]]></description>
+		<Point>
+			<coordinates>-96.65,40.80</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>LINCOLN 27E 56S</name>
+		<description><![CDATA[ <p>a254769<br>Network: HPRCC AWDN<br>Begin Date:1996-6-10<br>End Date: Current<br><a href="http://hprcc.unl.edu/data/stationinfo.php?network_type=5&network_id=a254769">More Information</a><br></p><p font-color="red">Data Provided by High Plains Regional Climate Center - <a href="http://hprcc.unl.edu">http://hprcc.unl.edu</a></p> ]]></description>
+		<Point>
+			<coordinates>-96.68,40.75</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>LINCOLNIANR</name>
+		<description><![CDATA[ <p>a254809<br>Network: HPRCC AWDN<br>Begin Date:1986-8-27<br>End Date: Current<br><a href="http://hprcc.unl.edu/data/stationinfo.php?network_type=5&network_id=a254809">More Information</a><br></p><p font-color="red">Data Provided by High Plains Regional Climate Center - <a href="http://hprcc.unl.edu">http://hprcc.unl.edu</a></p> ]]></description>
+		<Point>
+			<coordinates>-96.65,40.83</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>MCCOOK</name>
+		<description><![CDATA[ <p>a255319<br>Network: HPRCC AWDN<br>Begin Date:1981-5-21<br>End Date: Current<br><a href="http://hprcc.unl.edu/data/stationinfo.php?network_type=5&network_id=a255319">More Information</a><br></p><p font-color="red">Data Provided by High Plains Regional Climate Center - <a href="http://hprcc.unl.edu">http://hprcc.unl.edu</a></p> ]]></description>
+		<Point>
+			<coordinates>-100.58,40.23</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>MEADAGROFARM</name>
+		<description><![CDATA[ <p>a255367<br>Network: HPRCC AWDN<br>Begin Date:1994-1-1<br>End Date: Current<br><a href="http://hprcc.unl.edu/data/stationinfo.php?network_type=5&network_id=a255367">More Information</a><br></p><p font-color="red">Data Provided by High Plains Regional Climate Center - <a href="http://hprcc.unl.edu">http://hprcc.unl.edu</a></p> ]]></description>
+		<Point>
+			<coordinates>-96.40,41.15</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>MEADTURFFARM</name>
+		<description><![CDATA[ <p>a255368<br>Network: HPRCC AWDN<br>Begin Date:1986-7-29<br>End Date: Current<br><a href="http://hprcc.unl.edu/data/stationinfo.php?network_type=5&network_id=a255368">More Information</a><br></p><p font-color="red">Data Provided by High Plains Regional Climate Center - <a href="http://hprcc.unl.edu">http://hprcc.unl.edu</a></p> ]]></description>
+		<Point>
+			<coordinates>-96.47,41.17</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>MEAD</name>
+		<description><![CDATA[ <p>a255369<br>Network: HPRCC AWDN<br>Begin Date:1981-5-19<br>End Date: Current<br><a href="http://hprcc.unl.edu/data/stationinfo.php?network_type=5&network_id=a255369">More Information</a><br></p><p font-color="red">Data Provided by High Plains Regional Climate Center - <a href="http://hprcc.unl.edu">http://hprcc.unl.edu</a></p> ]]></description>
+		<Point>
+			<coordinates>-96.48,41.15</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>MINDEN</name>
+		<description><![CDATA[ <p>a255569<br>Network: HPRCC AWDN<br>Begin Date:1995-6-4<br>End Date: Current<br><a href="http://hprcc.unl.edu/data/stationinfo.php?network_type=5&network_id=a255569">More Information</a><br></p><p font-color="red">Data Provided by High Plains Regional Climate Center - <a href="http://hprcc.unl.edu">http://hprcc.unl.edu</a></p> ]]></description>
+		<Point>
+			<coordinates>-99.05,40.52</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>MITCHELL FARMS</name>
+		<description><![CDATA[ <p>a255599<br>Network: HPRCC AWDN<br>Begin Date:1996-7-11<br>End Date: Current<br><a href="http://hprcc.unl.edu/data/stationinfo.php?network_type=5&network_id=a255599">More Information</a><br></p><p font-color="red">Data Provided by High Plains Regional Climate Center - <a href="http://hprcc.unl.edu">http://hprcc.unl.edu</a></p> ]]></description>
+		<Point>
+			<coordinates>-103.70,41.93</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>MONROE</name>
+		<description><![CDATA[ <p>a255649<br>Network: HPRCC AWDN<br>Begin Date:1996-6-17<br>End Date: Current<br><a href="http://hprcc.unl.edu/data/stationinfo.php?network_type=5&network_id=a255649">More Information</a><br></p><p font-color="red">Data Provided by High Plains Regional Climate Center - <a href="http://hprcc.unl.edu">http://hprcc.unl.edu</a></p> ]]></description>
+		<Point>
+			<coordinates>-97.52,41.38</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>NEBRASKA CITY</name>
+		<description><![CDATA[ <p>a255819<br>Network: HPRCC AWDN<br>Begin Date:1998-6-29<br>End Date: Current<br><a href="http://hprcc.unl.edu/data/stationinfo.php?network_type=5&network_id=a255819">More Information</a><br></p><p font-color="red">Data Provided by High Plains Regional Climate Center - <a href="http://hprcc.unl.edu">http://hprcc.unl.edu</a></p> ]]></description>
+		<Point>
+			<coordinates>-95.80,40.53</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CONCORD(NE)</name>
+		<description><![CDATA[ <p>a256019<br>Network: HPRCC AWDN<br>Begin Date:1982-7-16<br>End Date: Current<br><a href="http://hprcc.unl.edu/data/stationinfo.php?network_type=5&network_id=a256019">More Information</a><br></p><p font-color="red">Data Provided by High Plains Regional Climate Center - <a href="http://hprcc.unl.edu">http://hprcc.unl.edu</a></p> ]]></description>
+		<Point>
+			<coordinates>-96.95,42.38</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>NORTHPLATTE</name>
+		<description><![CDATA[ <p>a256079<br>Network: HPRCC AWDN<br>Begin Date:1982-9-15<br>End Date: Current<br><a href="http://hprcc.unl.edu/data/stationinfo.php?network_type=5&network_id=a256079">More Information</a><br></p><p font-color="red">Data Provided by High Plains Regional Climate Center - <a href="http://hprcc.unl.edu">http://hprcc.unl.edu</a></p> ]]></description>
+		<Point>
+			<coordinates>-100.77,41.08</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>ONEILL</name>
+		<description><![CDATA[ <p>a256299<br>Network: HPRCC AWDN<br>Begin Date:1985-7-17<br>End Date: Current<br><a href="http://hprcc.unl.edu/data/stationinfo.php?network_type=5&network_id=a256299">More Information</a><br></p><p font-color="red">Data Provided by High Plains Regional Climate Center - <a href="http://hprcc.unl.edu">http://hprcc.unl.edu</a></p> ]]></description>
+		<Point>
+			<coordinates>-98.75,42.47</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>ORD</name>
+		<description><![CDATA[ <p>a256339<br>Network: HPRCC AWDN<br>Begin Date:1983-7-10<br>End Date: Current<br><a href="http://hprcc.unl.edu/data/stationinfo.php?network_type=5&network_id=a256339">More Information</a><br></p><p font-color="red">Data Provided by High Plains Regional Climate Center - <a href="http://hprcc.unl.edu">http://hprcc.unl.edu</a></p> ]]></description>
+		<Point>
+			<coordinates>-98.93,41.62</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>REDCLOUD</name>
+		<description><![CDATA[ <p>a257079<br>Network: HPRCC AWDN<br>Begin Date:1991-1-1<br>End Date: Current<br><a href="http://hprcc.unl.edu/data/stationinfo.php?network_type=5&network_id=a257079">More Information</a><br></p><p font-color="red">Data Provided by High Plains Regional Climate Center - <a href="http://hprcc.unl.edu">http://hprcc.unl.edu</a></p> ]]></description>
+		<Point>
+			<coordinates>-98.28,40.08</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>SCOTTSBLUFF</name>
+		<description><![CDATA[ <p>a257679<br>Network: HPRCC AWDN<br>Begin Date:1991-1-1<br>End Date: Current<br><a href="http://hprcc.unl.edu/data/stationinfo.php?network_type=5&network_id=a257679">More Information</a><br></p><p font-color="red">Data Provided by High Plains Regional Climate Center - <a href="http://hprcc.unl.edu">http://hprcc.unl.edu</a></p> ]]></description>
+		<Point>
+			<coordinates>-103.67,41.88</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>SHELTON</name>
+		<description><![CDATA[ <p>a257779<br>Network: HPRCC AWDN<br>Begin Date:1991-1-1<br>End Date: Current<br><a href="http://hprcc.unl.edu/data/stationinfo.php?network_type=5&network_id=a257779">More Information</a><br></p><p font-color="red">Data Provided by High Plains Regional Climate Center - <a href="http://hprcc.unl.edu">http://hprcc.unl.edu</a></p> ]]></description>
+		<Point>
+			<coordinates>-98.75,40.73</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>SIDNEY</name>
+		<description><![CDATA[ <p>a257839<br>Network: HPRCC AWDN<br>Begin Date:1982-12-1<br>End Date: Current<br><a href="http://hprcc.unl.edu/data/stationinfo.php?network_type=5&network_id=a257839">More Information</a><br></p><p font-color="red">Data Provided by High Plains Regional Climate Center - <a href="http://hprcc.unl.edu">http://hprcc.unl.edu</a></p> ]]></description>
+		<Point>
+			<coordinates>-103.02,41.22</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>CLAY CENTER(SC)</name>
+		<description><![CDATA[ <p>a257899<br>Network: HPRCC AWDN<br>Begin Date:1982-7-14<br>End Date: Current<br><a href="http://hprcc.unl.edu/data/stationinfo.php?network_type=5&network_id=a257899">More Information</a><br></p><p font-color="red">Data Provided by High Plains Regional Climate Center - <a href="http://hprcc.unl.edu">http://hprcc.unl.edu</a></p> ]]></description>
+		<Point>
+			<coordinates>-98.13,40.57</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>SMITHFIELD</name>
+		<description><![CDATA[ <p>a258109<br>Network: HPRCC AWDN<br>Begin Date:1995-6-4<br>End Date: Current<br><a href="http://hprcc.unl.edu/data/stationinfo.php?network_type=5&network_id=a258109">More Information</a><br></p><p font-color="red">Data Provided by High Plains Regional Climate Center - <a href="http://hprcc.unl.edu">http://hprcc.unl.edu</a></p> ]]></description>
+		<Point>
+			<coordinates>-99.67,40.58</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>WESTPOINT</name>
+		<description><![CDATA[ <p>a259209<br>Network: HPRCC AWDN<br>Begin Date:1982-5-15<br>End Date: Current<br><a href="http://hprcc.unl.edu/data/stationinfo.php?network_type=5&network_id=a259209">More Information</a><br></p><p font-color="red">Data Provided by High Plains Regional Climate Center - <a href="http://hprcc.unl.edu">http://hprcc.unl.edu</a></p> ]]></description>
+		<Point>
+			<coordinates>-96.73,41.85</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>YORK</name>
+		<description><![CDATA[ <p>a259519<br>Network: HPRCC AWDN<br>Begin Date:1996-4-22<br>End Date: Current<br><a href="http://hprcc.unl.edu/data/stationinfo.php?network_type=5&network_id=a259519">More Information</a><br></p><p font-color="red">Data Provided by High Plains Regional Climate Center - <a href="http://hprcc.unl.edu">http://hprcc.unl.edu</a></p> ]]></description>
+		<Point>
+			<coordinates>-97.62,40.87</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>BARTA</name>
+		<description><![CDATA[ <p>a250529<br>Network: HPRCC AWDN<br>Begin Date:2000-4-7<br>End Date: Current<br><a href="http://hprcc.unl.edu/data/stationinfo.php?network_type=5&network_id=a250529">More Information</a><br></p><p font-color="red">Data Provided by High Plains Regional Climate Center - <a href="http://hprcc.unl.edu">http://hprcc.unl.edu</a></p> ]]></description>
+		<Point>
+			<coordinates>-99.65,42.23</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>NEBRASKA CITY   2N</name>
+		<description><![CDATA[ <p>a255829<br>Network: HPRCC AWDN<br>Begin Date:2001-12-21<br>End Date: Current<br><a href="http://hprcc.unl.edu/data/stationinfo.php?network_type=5&network_id=a255829">More Information</a><br></p><p font-color="red">Data Provided by High Plains Regional Climate Center - <a href="http://hprcc.unl.edu">http://hprcc.unl.edu</a></p> ]]></description>
+		<Point>
+			<coordinates>-95.88,40.70</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>GOTHENBURG</name>
+		<description><![CDATA[ <p>a253369<br>Network: HPRCC AWDN<br>Begin Date:2002-8-15<br>End Date: Current<br><a href="http://hprcc.unl.edu/data/stationinfo.php?network_type=5&network_id=a253369">More Information</a><br></p><p font-color="red">Data Provided by High Plains Regional Climate Center - <a href="http://hprcc.unl.edu">http://hprcc.unl.edu</a></p> ]]></description>
+		<Point>
+			<coordinates>-100.18,40.95</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>LINCOLN 10E 17N</name>
+		<description><![CDATA[ <p>a254758<br>Network: HPRCC AWDN<br>Begin Date:2002-8-30<br>End Date: Current<br><a href="http://hprcc.unl.edu/data/stationinfo.php?network_type=5&network_id=a254758">More Information</a><br></p><p font-color="red">Data Provided by High Plains Regional Climate Center - <a href="http://hprcc.unl.edu">http://hprcc.unl.edu</a></p> ]]></description>
+		<Point>
+			<coordinates>-96.70,40.83</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>COZAD</name>
+		<description><![CDATA[ <p>a251949<br>Network: HPRCC AWDN<br>Begin Date:2004-5-29<br>End Date: Current<br><a href="http://hprcc.unl.edu/data/stationinfo.php?network_type=5&network_id=a251949">More Information</a><br></p><p font-color="red">Data Provided by High Plains Regional Climate Center - <a href="http://hprcc.unl.edu">http://hprcc.unl.edu</a></p> ]]></description>
+		<Point>
+			<coordinates>-99.95,40.97</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>MERNA</name>
+		<description><![CDATA[ <p>a255399<br>Network: HPRCC AWDN<br>Begin Date:2004-6-18<br>End Date: Current<br><a href="http://hprcc.unl.edu/data/stationinfo.php?network_type=5&network_id=a255399">More Information</a><br></p><p font-color="red">Data Provided by High Plains Regional Climate Center - <a href="http://hprcc.unl.edu">http://hprcc.unl.edu</a></p> ]]></description>
+		<Point>
+			<coordinates>-99.77,41.45</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>SPARKS</name>
+		<description><![CDATA[ <p>a258039<br>Network: HPRCC AWDN<br>Begin Date:2004-7-27<br>End Date: Current<br><a href="http://hprcc.unl.edu/data/stationinfo.php?network_type=5&network_id=a258039">More Information</a><br></p><p font-color="red">Data Provided by High Plains Regional Climate Center - <a href="http://hprcc.unl.edu">http://hprcc.unl.edu</a></p> ]]></description>
+		<Point>
+			<coordinates>-100.20,42.98</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>NEWPORT</name>
+		<description><![CDATA[ <p>a255929<br>Network: HPRCC AWDN<br>Begin Date:2004-8-12<br>End Date: Current<br><a href="http://hprcc.unl.edu/data/stationinfo.php?network_type=5&network_id=a255929">More Information</a><br></p><p font-color="red">Data Provided by High Plains Regional Climate Center - <a href="http://hprcc.unl.edu">http://hprcc.unl.edu</a></p> ]]></description>
+		<Point>
+			<coordinates>-99.38,42.58</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>HIGGINS RANCH</name>
+		<description><![CDATA[ <p>a253829<br>Network: HPRCC AWDN<br>Begin Date:2004-7-13<br>End Date: Current<br><a href="http://hprcc.unl.edu/data/stationinfo.php?network_type=5&network_id=a253829">More Information</a><br></p><p font-color="red">Data Provided by High Plains Regional Climate Center - <a href="http://hprcc.unl.edu">http://hprcc.unl.edu</a></p> ]]></description>
+		<Point>
+			<coordinates>-99.25,42.83</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>MERRITT</name>
+		<description><![CDATA[ <p>a255479<br>Network: HPRCC AWDN<br>Begin Date:2004-7-26<br>End Date: Current<br><a href="http://hprcc.unl.edu/data/stationinfo.php?network_type=5&network_id=a255479">More Information</a><br></p><p font-color="red">Data Provided by High Plains Regional Climate Center - <a href="http://hprcc.unl.edu">http://hprcc.unl.edu</a></p> ]]></description>
+		<Point>
+			<coordinates>-100.90,42.45</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>BRULE NORTH TABLE</name>
+		<description><![CDATA[ <p>a251227<br>Network: HPRCC AWDN<br>Begin Date:2007-6-27<br>End Date: Current<br><a href="http://hprcc.unl.edu/data/stationinfo.php?network_type=5&network_id=a251227">More Information</a><br></p><p font-color="red">Data Provided by High Plains Regional Climate Center - <a href="http://hprcc.unl.edu">http://hprcc.unl.edu</a></p> ]]></description>
+		<Point>
+			<coordinates>-101.98,41.15</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>BRULE PLATTE VALLEY</name>
+		<description><![CDATA[ <p>a251228<br>Network: HPRCC AWDN<br>Begin Date:2007-6-6<br>End Date: Current<br><a href="http://hprcc.unl.edu/data/stationinfo.php?network_type=5&network_id=a251228">More Information</a><br></p><p font-color="red">Data Provided by High Plains Regional Climate Center - <a href="http://hprcc.unl.edu">http://hprcc.unl.edu</a></p> ]]></description>
+		<Point>
+			<coordinates>-101.95,41.02</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>FIRTH</name>
+		<description><![CDATA[ <p>a252939<br>Network: HPRCC AWDN<br>Begin Date:2008-5-12<br>End Date: Current<br><a href="http://hprcc.unl.edu/data/stationinfo.php?network_type=5&network_id=a252939">More Information</a><br></p><p font-color="red">Data Provided by High Plains Regional Climate Center - <a href="http://hprcc.unl.edu">http://hprcc.unl.edu</a></p> ]]></description>
+		<Point>
+			<coordinates>-96.60,40.57</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>OAKLAND</name>
+		<description><![CDATA[ <p>a256149<br>Network: HPRCC AWDN<br>Begin Date:2008-4-7<br>End Date: Current<br><a href="http://hprcc.unl.edu/data/stationinfo.php?network_type=5&network_id=a256149">More Information</a><br></p><p font-color="red">Data Provided by High Plains Regional Climate Center - <a href="http://hprcc.unl.edu">http://hprcc.unl.edu</a></p> ]]></description>
+		<Point>
+			<coordinates>-96.53,41.83</coordinates>
+		</Point>
+	</Placemark>
+
+</Document>
+</kml>

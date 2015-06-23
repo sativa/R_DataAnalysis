@@ -1,0 +1,13 @@
+gender dept Admit  Reject
+Male    A 512 313
+Male    B 353 207
+Male    C 120 205
+Male    D 138 279
+Male    E  53 138
+Male    F  22 351
+Female    A  89  19
+ Female    B  17   8
+Female    C 202 391
+Female    D 131 244
+Female    E  94 299
+Female    F  24 317

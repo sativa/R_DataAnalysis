@@ -1,0 +1,3 @@
+<?xml version="1.0"?>
+<!--<!DOCTYPE metadata SYSTEM "http://www.esri.com/metadata/esriprof80.dtd">-->
+<metadata xml:lang="en"><Esri><MetaID>{6261E82B-B75D-4DFC-BAE0-F421ABAF7DA6}</MetaID><CreaDate>20060202</CreaDate><CreaTime>16294200</CreaTime><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process Name="DefineProjection_1" ToolSource="C:\ESRI\ARCGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\DefineProjection" Date="20060202" Time="162942">DefineProjection C:\ESRI\AEJEE\Data\usa\elev48.shp GEOGCS['GCS_WGS_1984',DATUM['D_WGS_1984',SPHEROID['WGS_1984',6378137.0,298.257223563]],PRIMEM['Greenwich',0.0],UNIT['Degree',0.0174532925199433]] C:\ESRI\AEJEE\Data\usa\elev48.shp</Process></lineage></DataProperties></Esri></metadata>

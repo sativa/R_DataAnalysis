@@ -1,0 +1,11 @@
+
+Descriptive statistics/selected variables
+=============================
+Statistic Maximum Temperature
+-----------------------------
+N                7,670       
+Mean             16.8        
+St. Dev.         12.3        
+Min              -20.3       
+Max              42.2        
+-----------------------------
